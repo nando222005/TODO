@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Moto GP",Moto GP
-http://84.79.48.241:6878/play/lP9vSD2/11
+http://192.168.1.67:6878/ace/getstream?id=d4d4200a1e52fc23940b2dde915600af7e9a6b05&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 tvg-name="M. LaLiga Multiaudio",M. LaLiga Multiaudio
 http://192.168.1.67:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=spa
 #EXTINF:-1 tvg-name="M. La Liga",M. La Liga
